@@ -1,0 +1,19 @@
+# Maven build output
+target/
+**/target/
+*.class
+**/*.class
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Office temp lock files
+~$*
+
+# IDE & OS
+.idea/
+.vscode/
+*.log
+Thumbs.db
+.DS_Store
